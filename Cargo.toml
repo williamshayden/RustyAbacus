@@ -1,0 +1,10 @@
+[package]
+name = "rusty-abacus"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = { version = "0.13", features = ["canvas"] }
+arboard = "3"
+image = "0.25"
+rfd = "0.15"
