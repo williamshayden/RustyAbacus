@@ -29,10 +29,6 @@ A native cross-platform scientific calculator and graphing tool with brutalist a
 - Sharp geometry, no rounded corners
 - Monospace typography
 
-## Screenshots
-
-*Calculator and Graph modes with brutalist UI*
-
 ## Installation
 
 ### From Source
